@@ -38,5 +38,3 @@ class Gossip
     end
     
 end
-
-#binding.pry
